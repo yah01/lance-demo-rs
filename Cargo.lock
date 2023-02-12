@@ -1264,6 +1264,8 @@ name = "lance-demo"
 version = "0.1.0"
 dependencies = [
  "arrow",
+ "futures",
+ "futures-core",
  "lance",
  "rand",
  "tokio",
